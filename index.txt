@@ -1,6 +1,6 @@
 1:HL["/react-video/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["/react-video/_next/static/css/0e64d55f56292863.css","style",{"crossOrigin":""}]
-0:["Dnxab0l9dl6albxK7dwgy",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/react-video/_next/static/css/0e64d55f56292863.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["cELTTAgHC6BZRbAGnGqGU",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/react-video/_next/static/css/0e64d55f56292863.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:HL["/react-video/_next/static/css/0e2be447772fbc9c.css","style",{"crossOrigin":""}]
 6:I[6954,[],""]
 7:I[7264,[],""]
